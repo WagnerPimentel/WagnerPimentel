@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wagner Pimentel</h1>
+<h1 align="center">Oi 👋, Eu chamo Wagner Pimentel</h1>
 <h3 align="center">Sou um estudante, estou cursando Técnico em Informática!</h3>
 
 - 🔭 Atualmente trabalho com **Pinturas**
