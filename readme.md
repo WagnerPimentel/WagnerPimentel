@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com **Pinturas**
 
-- 🌱 Estou aprendendo **Front-End, com HTML, CSS e JavaScript**
+- 🌱 Estou aprendendo **Desenvolvimento Web, com HTML, CSS, JavaScript e PhP** no ensino técnico do Senac.
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [www.github/wagnerpimentel](www.github/wagnerpimentel)
 
