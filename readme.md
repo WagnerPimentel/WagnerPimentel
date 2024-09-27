@@ -1,9 +1,8 @@
 <h1 align="center">Oi 👋, Eu chamo Wagner Pimentel</h1>
-<h3 align="center">Sou um estudante, estou cursando Técnico em Informática!</h3>
 
 - 🔭 Atualmente trabalho com **Pinturas**
 
-- 🌱 Estou aprendendo **Desenvolvimento Web, com HTML, CSS, JavaScript e PhP** no ensino técnico do Senac.
+- 🌱 Estou aprendendo **Desenvolvimento de Software, com HTML, CSS, Javascript, PHP e C#** no ensino técnico do Senac.
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [www.github/wagnerpimentel](www.github/wagnerpimentel)
 
